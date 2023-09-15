@@ -1,0 +1,8 @@
+// States
+WeatherBloc => WeatherFetchSuccess => WeatherFetchFailure => WeatherFetchLoading
+
+// Events
+UserBloc => UserFetched => UserDeleted => UserCreated => UserUpdated
+
+// Methods
+UserBloc => Fetch => Delete => Create => Update
